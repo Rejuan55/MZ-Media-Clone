@@ -6709,3 +6709,46 @@ figcaption {
   width: 100%;
   height: 100%;
 }
+
+
+
+
+
+
+
+
+
+/*=======================Addition of new font============================*/
+.new-fonts{
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  font-size: 35px;
+  font-style: normal;
+}
+
+
+
+
+
+/*=======================Short Form Videos============================*/
+
+.responsive-video-embed.vertical {
+  position: relative;
+  padding-bottom: 177.77%; /* 9:16 aspect ratio */
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.responsive-video-embed.vertical iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+
+
+
+
